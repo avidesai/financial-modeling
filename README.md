@@ -10,3 +10,7 @@ Custom financial models of various equities
   - Fair Value Share Price: $732.54
   - Recommendation: BUY
   - Upside / Downside: 23%
+- Ulta Beauty (10/21/2023)
+  - Fair Value Share Price: $491.12
+  - Recommendation: BUY
+  - Upside / Downside: 28%
