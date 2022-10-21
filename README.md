@@ -14,3 +14,7 @@ Custom financial models of various equities
   - Fair Value Share Price: $491.12
   - Recommendation: BUY
   - Upside / Downside: 28%
+- Tesla (10/21/2023)
+  - Fair Value Share Price: $24.37
+  - Recommendation: SELL
+  - Upside / Downside: -89%
