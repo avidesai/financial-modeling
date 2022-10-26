@@ -1,16 +1,24 @@
-# financial modeling
-Custom financial models of various equities
+# Financial models
 
-### discounted cash flow models
-- Abbvie (10/21/2023)
-  - Fair Value Share Price: $505.24
+## discounted cash flow models 
+based on 2021 filings
+
+
+Abbvie
+  - Fair Value Share Price: $424.79
   - Recommendation: BUY
-  - Upside / Downside: 244%
-- Blackrock (10/21/2023)
-  - Fair Value Share Price: $732.54
+ASML
+  - Fair Value Share Price: $644.43
   - Recommendation: BUY
-  - Upside / Downside: 23%
-- Ulta Beauty (10/21/2023)
-  - Fair Value Share Price: $491.12
+Ulta Beauty
+  - Fair Value Share Price: $409.61
   - Recommendation: BUY
-  - Upside / Downside: 28%
+Blackrock
+  - Fair Value Share Price: $599.09
+  - Recommendation: SELL
+Enphase Energy
+  - Fair Value Share Price: $50.61
+  - Recommendation: SELL
+Tesla
+  - Fair Value Share Price: $19.91
+  - Recommendation: SELL
