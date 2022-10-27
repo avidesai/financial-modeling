@@ -19,6 +19,9 @@ based on 2021 filings
 #### Palo Alto Networks
 - Fair Value Share Price: $155.87
 - Recommendation: Underweight
+#### Eli Lilly
+- Fair Value Share Price: $232.33
+- Recommendation: Underweight
 #### NVIDIA
 - Fair Value Share Price: $62.75
 - Recommendation: Underweight
