@@ -19,6 +19,9 @@ based on 2021 filings
 #### Palo Alto Networks
 - Fair Value Share Price: $155.87
 - Rating: Underweight
+#### Microsoft
+- Fair Value Share Price: $183.87
+- Rating: Underweight
 #### ServiceNow
 - Fair Value Share Price: $240.90
 - Rating: Underweight
