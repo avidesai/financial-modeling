@@ -6,28 +6,31 @@ based on 2021 filings
 
 #### Abbvie
 - Fair Value Share Price: $424.79
-- Recommendation: Overweight
+- Rating: Overweight
 #### ASML
 - Fair Value Share Price: $644.43
-- Recommendation: Overweight
+- Rating: Overweight
 #### Ulta Beauty
 - Fair Value Share Price: $409.61
-- Recommendation: Overweight
+- Rating: Overweight
 #### Blackrock
 - Fair Value Share Price: $599.09
-- Recommendation: Underweight
+- Rating: Underweight
 #### Palo Alto Networks
 - Fair Value Share Price: $155.87
-- Recommendation: Underweight
+- Rating: Underweight
 #### Eli Lilly
 - Fair Value Share Price: $232.33
-- Recommendation: Underweight
+- Rating: Underweight
 #### NVIDIA
-- Fair Value Share Price: $62.75
-- Recommendation: Underweight
+- Fair Value Share Price: $60.11
+- Rating: Underweight
+#### AMD
+- Fair Value Share Price: $25.05
+- Rating: Underweight
 #### Enphase Energy
 - Fair Value Share Price: $50.61
-- Recommendation: Underweight
+- Rating: Underweight
 #### Tesla
 - Fair Value Share Price: $19.91
-- Recommendation: Underweight
+- Rating: Underweight
