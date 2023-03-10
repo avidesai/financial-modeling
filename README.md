@@ -1,25 +1,19 @@
 # Financial Models
-### Discounted Cash Flow models of various equities
+## Discounted Cash Flow models of various equities
 
 Last updated on 3/7/2023
 
-### Semiconductors
+### Growth
+- Microsoft
+  - Intrinsic Value: $235.58
+- Tesla
+  - Intrinsic Value: $56.98
 - Nvidia
   - Intrinsic Value: $42.58
 - ASML
   - Intrinsic Value: $510.65
-
-### Consumer
-- Louis Vuitton Moet Hennessy (LVMH)
-  - Intrinsic Value: $540.19
-- Tesla
-  - Intrinsic Value: $56.98
 - Airbnb
   - Intrinsic Value: $231.87
-- Ulta Beauty
-  - Intrinsic Value: $368.10
-
-### Cybersecurity
 - Crowdstrike
   - Intrinsic Value: $126.68
 - ZScaler
@@ -27,10 +21,14 @@ Last updated on 3/7/2023
 - Fortinet
   - Intrinsic Value: $58.48
 
-### Enterprise SaaS
-- Microsoft
-  - Intrinsic Value: $235.58
-
-### Financial Services
+### Value
+- Louis Vuitton Moet Hennessy (LVMH)
+  - Intrinsic Value: $540.19
+- Ulta Beauty
+  - Intrinsic Value: $368.10
 - BlackRock
   - Intrinsic Value: $545.98
+- Lockheed Martin
+  - Intrinsic Value: $470.08
+- Waste Management
+  - Intrinsic Value: $98.93
