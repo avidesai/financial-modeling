@@ -1,14 +1,13 @@
 # Financial Models
 ## Discounted Cash Flow models of various equities
 
-Last updated on 3/10/2023
+Last updated on 3/11/2023
 
 ### Technology
 - Microsoft
   - Intrinsic Value: $235.58
 - Tesla
   - Intrinsic Value: $56.98
-
 - Airbnb
   - Intrinsic Value: $231.87
 - Crowdstrike
@@ -19,6 +18,8 @@ Last updated on 3/10/2023
   - Intrinsic Value: $58.48
 - Palo Alto Networks
   - Intrinsic Value: $210.07
+- ServiceNow
+  - Intrinsic Value: $426.26
 
 ### Semiconductors
 - Nvidia
@@ -37,6 +38,10 @@ Last updated on 3/10/2023
   - Intrinsic Value: $199.11
 - BlackRock
   - Intrinsic Value: $545.98
+- Visa
+  - Intrinsic Value: $216.14
+- Chipotle Mexican Grill
+  - Intrinsic Value: $660.30
 
 ### Industrials
 - Lockheed Martin
