@@ -3,7 +3,7 @@
 
 Last updated on 3/12/2023
 
-### Technology
+### Software
 - Microsoft
   - Intrinsic Value: $242.54
 - Tesla
