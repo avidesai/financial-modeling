@@ -1,54 +1,70 @@
 # Financial Models
 ## Discounted Cash Flow models of various equities
 
-Last updated on 3/11/2023
+Last updated on 3/12/2023
 
 ### Technology
 - Microsoft
-  - Intrinsic Value: $235.58
+  - Intrinsic Value: $242.54
+- Tesla
+  - Intrinsic Value: $37.43
+- Adobe
+  - Intrinsic Value: $358.12
 - Salesforce
   - Intrinsic Value: $118.06
 - ServiceNow
-  - Intrinsic Value: $426.26
-- Palo Alto Networks
-  - Intrinsic Value: $210.07
-- Tesla
-  - Intrinsic Value: $56.98
+  - Intrinsic Value: $361.30
 - Airbnb
-  - Intrinsic Value: $231.87
+  - Intrinsic Value: $89.97
+- ZoomInfo
+  - Intrinsic Value: $32.13
+
+### Cybersecurity
 - Crowdstrike
-  - Intrinsic Value: $126.68
+  - Intrinsic Value: $91.19
 - ZScaler
-  - Intrinsic Value: $97.94
+  - Intrinsic Value: $81.93
 - Fortinet
-  - Intrinsic Value: $58.48
+  - Intrinsic Value: $57.92
+- Palo Alto Networks
+  - Intrinsic Value: $193.66
 
 ### Semiconductors
 - Nvidia
-  - Intrinsic Value: $42.58
+  - Intrinsic Value: $38.83
+- AMD
+  - Intrinsic Value: $38.57
 - ASML
-  - Intrinsic Value: $510.65
+  - Intrinsic Value: $516.82
 - ON Semiconductor
-  - Intrinsic Value: $45.28
+  - Intrinsic Value: $43.18
+
+### Financials
+- BlackRock
+  - Intrinsic Value: $590.27
+- Visa
+  - Intrinsic Value: $242.46
+- Moody's
+  - Intrinsic Value: $139.14
+- S&P Global
+  - Intrinsic Value: $114.78
+- MSCI
+  - Intrinsic Value: $310.16
 
 ### Consumer
 - Louis Vuitton Moet Hennessy (LVMH)
-  - Intrinsic Value: $540.19
+  - Intrinsic Value: $536.68
 - Ulta Beauty
-  - Intrinsic Value: $368.10
+  - Intrinsic Value: $444.92
 - Lululemon
-  - Intrinsic Value: $199.11
-- BlackRock
-  - Intrinsic Value: $545.98
-- Visa
-  - Intrinsic Value: $216.14
+  - Intrinsic Value: $210.02
 - Chipotle Mexican Grill
-  - Intrinsic Value: $660.30
+  - Intrinsic Value: $671.88
 - AbbVie
-  - Intrinsic Value: $452.31
+  - Intrinsic Value: $487.01
 
 ### Industrials
 - Lockheed Martin
-  - Intrinsic Value: $470.08
+  - Intrinsic Value: $492.86
 - Waste Management
-  - Intrinsic Value: $98.93
+  - Intrinsic Value: $105.49
