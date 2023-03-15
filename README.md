@@ -11,6 +11,7 @@ Last updated on 3/15/2023
 - ServiceNow (*Intrinsic Value: $361.30*)
 - The Trade Desk (*Intrinsic Value: $21.69*)
 - ZoomInfo (*Intrinsic Value: $32.13*)
+- Paycom Software (*Intrinsic Value: $114.35*)
 
 ### Cybersecurity
 - Crowdstrike (*Intrinsic Value: $91.19*)
@@ -25,6 +26,7 @@ Last updated on 3/15/2023
 - ON Semiconductor (*Intrinsic Value: $43.18*)
 
 ### Financials
+- Berkshire Hathaway (*Intrinsic Value: $337.78*)
 - BlackRock (*Intrinsic Value: $590.27*)
 - Visa (*Intrinsic Value: $242.46*)
 - Moody's (*Intrinsic Value: $139.14*)
@@ -40,10 +42,9 @@ Last updated on 3/15/2023
 - AbbVie (*Intrinsic Value: $487.01*)
 
 ### Industrials
-- Lockheed Martin (*Intrinsic Value: $492.86*)
-- Waste Management (*Intrinsic Value: $105.49*)
+- Waste Management (*Intrinsic Value: $122.17*)
 - Livent (*Intrinsic Value: $17.39*)
-
+- Lockheed Martin (*Intrinsic Value: $492.86*)
 
 #### Built in assumptions:
 - Risk free rate = 4.10%
