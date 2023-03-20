@@ -15,6 +15,7 @@ Last updated on 3/20/2023
 
 ### Software
 - ServiceNow (*Intrinsic Value: $361.30*)
+- Snowflake (*Intrinsic Value: $66.82*)
 - Airbnb (*Intrinsic Value: $89.97*)
 - Autodesk (*Intrinsic Value: $177.10*)
 - Synopsys (*Intrinsic Value: $247.10*)
@@ -22,6 +23,7 @@ Last updated on 3/20/2023
 - Paycom Software (*Intrinsic Value: $114.35*)
 - Tyler Technologies (*Intrinsic Value: $195.88*)
 - ZoomInfo (*Intrinsic Value: $32.13*)
+- Box (*Intrinsic Value: $45.13*)
 
 ### Cybersecurity
 - Crowdstrike (*Intrinsic Value: $91.19*)
@@ -54,6 +56,7 @@ Last updated on 3/20/2023
 - AbbVie (*Intrinsic Value: $487.01*)
 - Ulta Beauty (*Intrinsic Value: $444.92*)
 - Lululemon (*Intrinsic Value: $210.02*)
+- Wingstop (*Intrinsic Value: $44.68*)
 - Chipotle Mexican Grill (*Intrinsic Value: $671.88*)
 
 ### Industrials
