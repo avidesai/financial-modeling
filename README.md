@@ -1,21 +1,23 @@
 # Financial Models
 ## Discounted Cash Flow models of various equities
 
-Last updated on 3/18/2023
+Last updated on 3/20/2023
 
 ### Big Tech
 - Microsoft (*Intrinsic Value: $242.54*)
 - Alphabet (*Intrinsic Value: $101.76*)
 - Meta Platforms (*Intrinsic Value: $160.16*)
+- Tesla (*Intrinsic Value: $37.43*)
 - Netflix (*Intrinsic Value: $53.15*)
 - Adobe (*Intrinsic Value: $358.12*)
 - Salesforce (*Intrinsic Value: $118.06*)
-- Tesla (*Intrinsic Value: $37.43*)
+- Accenture (*Intrinsic Value: $254.92*)
 
 ### Software
 - ServiceNow (*Intrinsic Value: $361.30*)
 - Airbnb (*Intrinsic Value: $89.97*)
 - Autodesk (*Intrinsic Value: $177.10*)
+- Synopsys (*Intrinsic Value: $247.10*)
 - The Trade Desk (*Intrinsic Value: $21.69*)
 - Paycom Software (*Intrinsic Value: $114.35*)
 - Tyler Technologies (*Intrinsic Value: $195.88*)
@@ -33,6 +35,7 @@ Last updated on 3/18/2023
 - ASML (*Intrinsic Value: $516.82*)
 - Applied Materials (*Intrinsic Value: $88.75*)
 - Broadcom (*Intrinsic Value: $630.97*)
+- Lam Research (*Intrinsic Value: $408.89*)
 - Arista Networks (*Intrinsic Value: $40.33*)
 - ON Semiconductor (*Intrinsic Value: $43.18*)
 - Pure Storage (*Intrinsic Value: $40.12*)
