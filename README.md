@@ -17,6 +17,8 @@ Last updated on 3/20/2023
 - ServiceNow (*Intrinsic Value: $361.30*)
 - Snowflake (*Intrinsic Value: $66.82*)
 - Airbnb (*Intrinsic Value: $89.97*)
+- Splunk (*Intrinsic Value: $63.79*)
+- Workday (*Intrinsic Value: $132.02*)
 - Autodesk (*Intrinsic Value: $177.10*)
 - Synopsys (*Intrinsic Value: $247.10*)
 - The Trade Desk (*Intrinsic Value: $21.69*)
@@ -38,6 +40,7 @@ Last updated on 3/20/2023
 - Applied Materials (*Intrinsic Value: $88.75*)
 - Broadcom (*Intrinsic Value: $630.97*)
 - Lam Research (*Intrinsic Value: $408.89*)
+- KLA Corporation (*Intrinsic Value: $384.05*)
 - Arista Networks (*Intrinsic Value: $40.33*)
 - ON Semiconductor (*Intrinsic Value: $43.18*)
 - Pure Storage (*Intrinsic Value: $40.12*)
@@ -58,6 +61,7 @@ Last updated on 3/20/2023
 - Lululemon (*Intrinsic Value: $210.02*)
 - Wingstop (*Intrinsic Value: $44.68*)
 - Chipotle Mexican Grill (*Intrinsic Value: $671.88*)
+- Clear Secure (*Intrinsic Value: $32.33*)
 
 ### Industrials
 - Waste Management (*Intrinsic Value: $122.17*)
