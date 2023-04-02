@@ -54,19 +54,29 @@ Last updated on 3/20/2023
 - MSCI (*Intrinsic Value: $310.16*)
 - Fair Isaac Corporation (*Intrinsic Value: $362.01*)
 
+### Healthcare
+- AbbVie (*Intrinsic Value: $487.01*)
+
 ### Consumer
 - Louis Vuitton Moet Hennessy (*Intrinsic Value: $536.68*)
-- AbbVie (*Intrinsic Value: $487.01*)
-- Ulta Beauty (*Intrinsic Value: $444.92*)
+- Nike (*Intrinsic Value: $66.00*)
 - Lululemon (*Intrinsic Value: $210.02*)
-- Wingstop (*Intrinsic Value: $44.68*)
+- Estee Lauder (*Intrinsic Value: $144.26*)
+- Ulta Beauty (*Intrinsic Value: $444.92*)
+- Costco Wholesale (*Intrinsic Value: $206.96*)
+- Coca Cola (*Intrinsic Value: $68.48*)
+- PepsiCo (*Intrinsic Value: $242.69*)
+- Hershey's (*Intrinsic Value: $317.05*)
 - Chipotle Mexican Grill (*Intrinsic Value: $671.88*)
+- Wingstop (*Intrinsic Value: $44.68*)
 - Clear Secure (*Intrinsic Value: $32.33*)
 
 ### Industrials
 - Waste Management (*Intrinsic Value: $122.17*)
 - Livent (*Intrinsic Value: $17.39*)
 - Lockheed Martin (*Intrinsic Value: $492.86*)
+- HEICO (*Intrinsic Value: $63.24*)
+- Axon Enterprise (*Intrinsic Value: $56.92*)
 
 #### Built in assumptions:
 - Risk free rate = 4.10%
