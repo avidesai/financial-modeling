@@ -1,7 +1,7 @@
 # Financial Models
 ## Discounted Cash Flow models of various equities
 
-Last updated on 3/20/2023
+Last updated on 4/1/2023
 
 ### Big Tech
 - Microsoft (*Intrinsic Value: $242.54*)
@@ -61,14 +61,12 @@ Last updated on 3/20/2023
 - Louis Vuitton Moet Hennessy (*Intrinsic Value: $536.68*)
 - Nike (*Intrinsic Value: $66.00*)
 - Lululemon (*Intrinsic Value: $210.02*)
-- Estee Lauder (*Intrinsic Value: $144.26*)
 - Ulta Beauty (*Intrinsic Value: $444.92*)
 - Costco Wholesale (*Intrinsic Value: $206.96*)
 - Coca Cola (*Intrinsic Value: $68.48*)
 - PepsiCo (*Intrinsic Value: $242.69*)
 - Hershey's (*Intrinsic Value: $317.05*)
 - Chipotle Mexican Grill (*Intrinsic Value: $671.88*)
-- Wingstop (*Intrinsic Value: $44.68*)
 - Clear Secure (*Intrinsic Value: $32.33*)
 
 ### Industrials
