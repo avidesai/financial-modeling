@@ -1,75 +1,59 @@
-# Equity Valuation Models
+# Repository of Discounted Cash Flow Models for Equity Valuation
 
-This repository contains a comprehensive collection of discounted cash flow (DCF) excel models for various equities, classified under different sectors. These models are designed to aid in investment decision-making by providing insight into the intrinsic value of these stocks. The models are complemented by a dashboard excel file that provides a summarized view of the financial metrics of these equities, ranking them in an organized spreadsheet.
+Welcome to this collection of Excel-based discounted cash flow (DCF) models, organized by sector to facilitate investment analysis and valuation. Alongside these, a centralized dashboard excel file offers a consolidated overview of key financial indicators for quick comparison and evaluation.
 
-## Dashboard
-The repository includes a Dashboard excel file named **Dashboard.xlsx** which summarizes and ranks the financial metrics of the equities featured in this repository.
+## Centralized Dashboard
+Contained within this repository is a **Dashboard.xlsx** file. This file captures the essence of the repository by summarizing and ranking the financial metrics of the stocks included, providing a macro view of the data.
 
+## Assumptions
+Each model adheres to a uniform set of assumptions to maintain consistency across evaluations:
+- Expected market return: 8.40%
+- Perpetual growth rate varies between 2.00% - 3.00%, aligning with specific growth projections
+- A 5-year outlook for revenue, net income, and unlevered free cash flow, sourced from Finbox.
 
+## Structure of the Repository
 
-## Built-In Assumptions
-
-The calculations made in these models follow a standard set of assumptions:
-- Average market return: 8.40%
-- Perpetual growth rate: 2.00% - 3.50% (dependent upon growth assumptions)
-- 5-year forward expectations for revenue, EBITDA, net income, and EPS are provided by Finbox.
-
-## Repository Structure
-
-The repository is organized into different sector-based folders, each containing the respective equity valuation models. Below is the list of models included in the repository:
+The repository's architecture is sector-specific, housing DCF models for a broad spectrum of equities within each category. Here's an outline of what you can find:
 
 ### Consumer Sector
-Models for equities in the Consumer sector include:
 
+- Hermes
+- PepsiCo
+- Starbucks
 - AutoZone
-- Burberry
-- Chipotle Mexican Grill
-- Coca Cola
-- (and many more...)
+- (and numerous others...)
 
 ### Financial Services
-Models for equities in the Financial Services sector include:
 
-- American Express
-- Berkshire Hathaway
-- BlackRock
-- CME Group
-- (and many more...)
+- Moody's
+- Visa
+- Adyen
+- CBOE Global Markets
+- (and numerous others...)
 
 ### Healthcare
-Models for equities in the Healthcare sector include:
 
-- Abbott Laboratories
-- AbbVie
+- Novo Nordisk
+- Intuitive Surgical
 - Danaher
-- Dexcom
-- (and many more...)
+- Eli Lilly
+- (and numerous others...)
 
 ### Industrials
-Models for equities in the Industrials sector include:
 
-- AMETEK
-- Cameco
-- Canadian National Railway
-- Canadian Pacific
-- (and many more...)
-
-### Real Estate
-Models for equities in the Real Estate sector include:
-
-- American Tower Corporation
-- CoStar Group
-- Prologis
-- Texas Pacific Land
-- (and many more...)
+- Waste Management
+- Lockheed Martin
+- Old Dominion Freight Line
+- Deere & Company
+- (and numerous others...)
 
 ### Technology
-Models for equities in the Technology sector are classified under two sub-sectors - Hardware and Software.
+Divides models into two sub-sectors - Hardware and Software.
 
-Please navigate to the respective folders for complete details of each model.
+For an in-depth view of each model, please explore the respective sector folders.
 
-In addition to these, there are equities which are yet to be modeled and will be added to the repository once ready.
-  
+Additional models for other equities are in progress and will be incorporated into the repository in due course.
+
 <br>
 
-Please feel free to clone or fork this repository for your personal use and investment research. Contributions and feedback are always welcome.
+I encourage you to clone or fork this repository for your analysis and investment research purposes.
