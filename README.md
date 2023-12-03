@@ -1,4 +1,4 @@
-# Repository of Discounted Cash Flow Models for Equity Valuation
+# Discounted Cash Flow Models of Equities
 
 Welcome to this collection of Excel-based discounted cash flow (DCF) models, organized by sector to facilitate investment analysis and valuation. Alongside these, a centralized dashboard excel file offers a consolidated overview of key financial indicators for quick comparison and evaluation.
 
