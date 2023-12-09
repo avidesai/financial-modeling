@@ -1,4 +1,4 @@
-# Discounted Cash Flow Models of Equities
+# Discounted Cash Flow (DCF) Models
 
 Welcome to this collection of Excel-based discounted cash flow (DCF) models, organized by sector to facilitate investment analysis and valuation. Alongside these, a centralized dashboard excel file offers a consolidated overview of key financial indicators for quick comparison and evaluation.
 
@@ -8,47 +8,70 @@ Contained within this repository is a **Dashboard.xlsx** file. This file capture
 ## Assumptions
 Each model adheres to a uniform set of assumptions to maintain consistency across evaluations:
 - Expected market return: 8.40%
-- Perpetual growth rate varies between 2.00% - 3.00%, aligning with specific growth projections
-- A 5-year outlook for revenue, net income, and unlevered free cash flow, sourced from Finbox.
+- Risk free rate: US 10Y Treasury Rate
+- Perpetual growth rate: 2.00% - 3.00% (depending on future growth expectations)
+- 5 year forecast: revenue, net income, and unlevered free cash flow (sourced from Finbox)
 
 ## Structure of the Repository
 
 The repository's architecture is sector-specific, housing DCF models for a broad spectrum of equities within each category. Here's an outline of what you can find:
 
+### Technology
+
+#### Software
+
+- Amazon
+- Snowflake
+- Airbnb
+- Salesforce
+- (and more...)
+
+#### Hardware
+
+- Apple
+- ASML
+- Nvidia
+- Intel
+- (and more...)
+
 ### Consumer Sector
 
-- Hermes
 - PepsiCo
+- Hermes
 - Starbucks
 - AutoZone
-- (and numerous others...)
+- (and more...)
 
 ### Financial Services
 
-- Moody's
 - Visa
+- BlackRock
 - Adyen
-- CBOE Global Markets
-- (and numerous others...)
+- PayPal
+- (and more...)
 
 ### Healthcare
 
+- Eli Lilly
 - Novo Nordisk
 - Intuitive Surgical
-- Danaher
-- Eli Lilly
-- (and numerous others...)
+- UnitedHealth Group
+- (and more...)
 
 ### Industrials
 
-- Waste Management
-- Lockheed Martin
+- Caterpillar
 - Old Dominion Freight Line
+- Waste Management
 - Deere & Company
-- (and numerous others...)
+- (and more...)
 
-### Technology
-Divides models into two sub-sectors - Hardware and Software.
+### Basic Materials
+
+- Cameco
+- Livent
+
+<br>
 
 For an in-depth view of each model, please explore the respective sector folders.
 
